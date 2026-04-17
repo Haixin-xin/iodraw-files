@@ -114,6 +114,9 @@
         <mxCell id="3ZRhddKypP8k5wUsl-cq-56" value="&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;单个字符&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="1044" y="684" width="149" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="3ZRhddKypP8k5wUsl-cq-57" value="&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;连续单词&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="1044" y="797" width="149" height="50" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
