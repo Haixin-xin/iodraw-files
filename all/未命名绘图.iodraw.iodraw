@@ -112,7 +112,10 @@
           <mxGeometry x="851" y="805" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-53" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
-          <mxGeometry x="1011" y="651" width="50" height="100" as="geometry" />
+          <mxGeometry x="1011" y="651" width="50" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="3ZRhddKypP8k5wUsl-cq-54" value="" style="shape=tapeData;whiteSpace=wrap;html=1;perimeter=ellipsePerimeter;" vertex="1" parent="1">
+          <mxGeometry x="1136" y="658" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
