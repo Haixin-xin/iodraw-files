@@ -58,7 +58,7 @@
         <mxCell id="3ZRhddKypP8k5wUsl-cq-28" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;mmwave数据&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="198.5" y="475" width="146" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="3ZRhddKypP8k5wUsl-cq-31" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;IMU数据&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="3ZRhddKypP8k5wUsl-cq-31" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;26维度特征&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="-115.5" y="913" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-32" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;b&gt;IMU数据&lt;/b&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
