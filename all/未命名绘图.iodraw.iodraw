@@ -70,9 +70,6 @@
         <mxCell id="3ZRhddKypP8k5wUsl-cq-32" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;span&gt;RA图谱&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="198.5" y="917" width="146" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="3ZRhddKypP8k5wUsl-cq-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" edge="1" source="3ZRhddKypP8k5wUsl-cq-36" target="3ZRhddKypP8k5wUsl-cq-38" parent="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-36" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;line-height: 150%; font-family: &amp;quot;Times New Roman&amp;quot;, serif;&quot; lang=&quot;EN-US&quot;&gt;3D-FFT&lt;/span&gt;&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot;&gt;处理&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="527" y="561" width="261" height="50" as="geometry" />
         </mxCell>
@@ -86,15 +83,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-38" value="&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;自适应杂波抑制&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="527" y="650" width="261" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="3ZRhddKypP8k5wUsl-cq-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0" edge="1" source="3ZRhddKypP8k5wUsl-cq-40" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="657.4705882352941" y="827" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="527" y="666" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-40" value="&lt;span style=&quot;line-height: 150%; font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;微多普勒特征提取&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="527" y="738" width="261" height="50" as="geometry" />
+          <mxGeometry x="527" y="801" width="261" height="50" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontStyle=0" edge="1" source="3ZRhddKypP8k5wUsl-cq-44" target="3ZRhddKypP8k5wUsl-cq-36" parent="1">
           <mxGeometry relative="1" as="geometry" />
@@ -103,10 +95,10 @@
           <mxGeometry x="584.5" y="477" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-46" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;span&gt;RA图谱&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="851" y="622" width="146" height="42" as="geometry" />
+          <mxGeometry x="851" y="638" width="146" height="42" as="geometry" />
         </mxCell>
         <mxCell id="3ZRhddKypP8k5wUsl-cq-47" value="&lt;font style=&quot;font-size: 20px;&quot; face=&quot;宋体&quot;&gt;&lt;span&gt;RD图谱&lt;/span&gt;&lt;/font&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="851" y="694" width="146" height="42" as="geometry" />
+          <mxGeometry x="851" y="710" width="146" height="42" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
